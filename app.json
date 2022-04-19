@@ -1,0 +1,8 @@
+{
+    "name": "Cloudreve-Heroku",
+    "description": "Cloureve on Heroku with Redis",
+    "repository": "https://github.com/babycutehaha/newtast.git",
+    "website": "https://ifibe.com/",
+    "keywords": ["cloudreve", "redis", "netdisc", "share"],
+    "stack": "container"
+  }
