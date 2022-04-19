@@ -1,8 +1,8 @@
 {
     "name": "Cloudreve-Heroku",
     "description": "Cloureve on Heroku with Redis",
-    "repository": "https://github.com/xiaofei-ya/Cloudreve-Heroku",
-    "website": "https://ifibe.com/",
+    "repository": "https://github.com/babycutehaha/Cloudreve-RailWay",
+    "website": "https://github.com/babycutehaha/Cloudreve-RailWay",
     "keywords": ["cloudreve", "redis", "netdisc", "share"],
     "stack": "container"
   }
